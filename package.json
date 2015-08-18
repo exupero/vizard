@@ -1,7 +1,9 @@
 {
+  "name": "vizard",
   "devDependencies": {
     "babelify": "^5.0.4",
     "browserify": "^9.0.3",
-    "d3": "^3.5.5"
+    "d3": "^3.5.5",
+    "save-svg-as-png": "^1.0.0"
   }
 }
